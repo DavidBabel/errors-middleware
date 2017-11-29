@@ -1,4 +1,4 @@
-# Module Error Handler
+# Error Middleware
 
 This module is used to send metrics in graphite
 
