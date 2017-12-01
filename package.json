@@ -1,6 +1,6 @@
 {
   "name": "errors-middleware",
-  "version": "1.1.1",
+  "version": "3.0.0",
   "main": "dist/index.js",
   "repository": "git@github.com:DavidBabel/errors-middleware.git",
   "author": "David Babel <david.babel@ogury.co>",
@@ -11,7 +11,7 @@
     "test": "NODE_ENV=test mocha --require babel-core/register tests/**/*.js"
   },
   "dependencies": {
-    "logger-helper": "DavidBabel/logger-helper#2.0.0"
+    "logger-helper": "DavidBabel/logger-helper#^3.0.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
